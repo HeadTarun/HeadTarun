@@ -3,10 +3,7 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=C084FC&background=1A0A2E00&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Tarun+Dange+%F0%9F%91%BE;Full+Stack+Developer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Animated Banner -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=1a0a2e,4a2060,c084fc&height=200&section=header&text=Tarun%20Dange&fontSize=50&fontColor=f3e8ff&fontAlignY=38&desc=Full%20Stack%20%7C%20ML%20%7C%20Open%20Source&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/HeadTarun)
 
-<!-- Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeadTarun&style=for-the-badge&color=c084fc&labelColor=1a0a2e&label=PROFILE+VIEWS)
 
 </div>
