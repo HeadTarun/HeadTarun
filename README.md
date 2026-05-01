@@ -57,20 +57,7 @@ class TarunDange:
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HeadTarun&show_icons=true&theme=transparent&title_color=c084fc&icon_color=e9c46a&text_color=f3e8ff&border_color=4a2060&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadTarun&layout=compact&theme=transparent&title_color=c084fc&text_color=f3e8ff&border_color=4a2060&border_radius=10&hide_border=false&langs_count=8" height="165" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HeadTarun&theme=transparent&background=1a0a2e&border=4a2060&ring=c084fc&fire=e9c46a&currStreakLabel=f3e8ff&sideLabels=f3e8ff&dates=c084fc&currStreakNum=e9c46a&sideNums=c084fc&border_radius=10)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -84,27 +71,7 @@ class TarunDange:
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-
-[![Tarun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HeadTarun&bg_color=1a0a2e&color=c084fc&line=4a2060&point=e9c46a&area=true&area_color=c084fc&hide_border=false&border_color=4a2060&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🗂️ Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=HeadTarun&repo=HeadTarun&theme=transparent&title_color=c084fc&icon_color=e9c46a&text_color=f3e8ff&border_color=4a2060&border_radius=10)](https://github.com/HeadTarun)
-
-</div>
-
-> 📌 *Pin your best repos from GitHub → Profile → Customize pins*
-
----
 
 ## 🌐 Connect With Me
 
