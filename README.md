@@ -55,7 +55,7 @@ class TarunDange:
 **AI / ML**
 
 <br/>
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
 **Databases & Cloud**
 
@@ -75,9 +75,13 @@ class TarunDange:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=HeadTarun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0618&title_color=c084fc&icon_color=e879f9&text_color=b89fd4&ring_color=c084fc"/>
+<!-- ⚠️ github-readme-stats.vercel.app public instance is shut down (Dec 2025).
+     These paths use GitHub Actions–generated static SVG cards stored in your repo.
+     Setup: https://github.com/anuraghazra/github-readme-stats#github-actions -->
+
+<img height="175em" src="https://raw.githubusercontent.com/HeadTarun/HeadTarun/output/stats-card.svg"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadTarun&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0618&title_color=c084fc&text_color=b89fd4"/>
+<img height="175em" src="https://raw.githubusercontent.com/HeadTarun/HeadTarun/output/top-langs-card.svg"/>
 
 </div>
 
@@ -114,6 +118,7 @@ class TarunDange:
 
 <div align="center">
 
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=c084fc,4a2060,0d0618&height=120&section=footer&animation=fadeIn)](https://github.com/HeadTarun)
 
 *⭐ If you like what I build, drop a star on my repos — it keeps me going 🚀*
 
