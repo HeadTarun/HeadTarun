@@ -1,7 +1,5 @@
-@@ -1,8 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=C084FC&background=1A0A2E00&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Tarun+Dange+%F0%9F%91%BE;Full+Stack+Developer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 <!-- ANIMATED HEADER SVG — hosted on your repo, renders on GitHub -->
 <img src="./header.svg" width="100%" alt="Tarun Dange — Animated Header"/>
 
@@ -20,22 +18,28 @@
 
 </div>
 
-@@ -21,11 +33,11 @@ class TarunDange:
+---
+
+## 👨‍💻 About Me
+
+```python
+class TarunDange:
+    role        = ["Full Stack Developer", "ML Enthusiast", "Open Source Contributor"]
+    languages   = ["Python", "JavaScript", "TypeScript", "C++"]
+    ask_me_about = ["Web Dev", "ML/AI", "APIs", "System Design"]
     fun_fact    = "I debug with console.log and I'm not ashamed 😤"
 ```
 
-- 🔭 Currently working on full-stack + ML projects
 - 🔭 Currently working on **full-stack + ML projects**
 - 🌱 Exploring **LLMs, RAG pipelines & System Design**
 - 💬 Ask me about **Python, React, Flask, Machine Learning**
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/tarun-dange)** | **[Email](mailto:tarundange@gmail.com)**
-- ⚡ Fun fact: I turn ☕ into `code` and `bugs` into features
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/tarun-dange)** · **[Email](mailto:tarundange@gmail.com)**
 - ⚡ I turn ☕ into `code` and `bugs` into features
 
 ---
 
-@@ -34,23 +46,23 @@ class TarunDange:
+## 🛠️ Tech Stack
+
 <div align="center">
 
 **Languages**
@@ -64,13 +68,13 @@
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
-@@ -61,15 +73,15 @@ class TarunDange:
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeadTarun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0a2e&title_color=c084fc&icon_color=e879f9&text_color=b89fd4"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadTarun&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a0a2e&title_color=c084fc&text_color=b89fd4"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=HeadTarun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0618&title_color=c084fc&icon_color=e879f9&text_color=b89fd4&ring_color=c084fc"/>
 &nbsp;
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadTarun&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0618&title_color=c084fc&text_color=b89fd4"/>
@@ -79,12 +83,9 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HeadTarun&theme=midnight-purple&hide_border=true&background=1a0a2e&ring=c084fc&fire=e879f9&currStreakLabel=c084fc)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=HeadTarun&theme=midnight-purple&hide_border=true&background=0d0618&ring=c084fc&fire=e879f9&currStreakLabel=c084fc&sideLabels=7c5ca8&dates=7c5ca8&currStreakNum=c084fc&sideNums=b89fd4)](https://git.io/streak-stats)
 
 </div>
-
-@@ -85,12 +97,22 @@ class TarunDange:
 
 ---
 
@@ -103,19 +104,17 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-dange)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/HeadTarun)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0618?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/HeadTarun)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HeadTarun)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarundange@gmail.com)
 
-@@ -100,8 +122,8 @@ class TarunDange:
+</div>
+
+---
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=c084fc,4a2060,1a0a2e&height=120&section=footer&animation=fadeIn)](https://github.com/HeadTarun)
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=c084fc,4a2060,0d0618&height=120&section=footer&animation=fadeIn)](https://github.com/HeadTarun)
 
-*⭐ If you like what I build, drop a star on my repos! It keeps me going 🚀*
 *⭐ If you like what I build, drop a star on my repos — it keeps me going 🚀*
 
 </div>
