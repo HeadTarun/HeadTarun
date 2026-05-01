@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=C084FC&background=1A0A2E00&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Tarun+Dange+%F0%9F%91%BE;Full+Stack+Developer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=C084FC&background=1A0A2E00&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Tarun+Dange+%F0%9F%91%BE;Full+Stack+Developer;ML+%26+AI+Enthusiast;Open+Source+Contributor;Building+Cool+Stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=HeadTarun&style=for-the-badge&color=c084fc&labelColor=1a0a2e&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=HeadTarun&style=for-the-badge&color=c084fc&labelColor=1a0a2e&label=PROFILE+VIEWS)
 
 </div>
 
@@ -26,7 +24,7 @@ class TarunDange:
 - 🔭 Currently working on full-stack + ML projects
 - 🌱 Exploring **LLMs, RAG pipelines & System Design**
 - 💬 Ask me about **Python, React, Flask, Machine Learning**
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/tarun-dange)** | **[Email](mailto:tarundange@email.com)**
+- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/tarun-dange)** | **[Email](mailto:tarundange@gmail.com)**
 - ⚡ Fun fact: I turn ☕ into `code` and `bugs` into features
 
 ---
@@ -57,7 +55,23 @@ class TarunDange:
 
 </div>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeadTarun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0a2e&title_color=c084fc&icon_color=e879f9&text_color=b89fd4"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadTarun&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a0a2e&title_color=c084fc&text_color=b89fd4"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HeadTarun&theme=midnight-purple&hide_border=true&background=1a0a2e&ring=c084fc&fire=e879f9&currStreakLabel=c084fc)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -70,8 +84,6 @@ class TarunDange:
 </div>
 
 ---
-
-
 
 ## 🌐 Connect With Me
 
@@ -88,7 +100,6 @@ class TarunDange:
 
 <div align="center">
 
-<!-- Footer Wave -->
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=c084fc,4a2060,1a0a2e&height=120&section=footer&animation=fadeIn)](https://github.com/HeadTarun)
 
 *⭐ If you like what I build, drop a star on my repos! It keeps me going 🚀*
