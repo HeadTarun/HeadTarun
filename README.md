@@ -20,13 +20,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👾 About Me
 
 ```python
 class TarunDange:
+    username    = "HeadTarun"
+    location    = "India 🇮🇳"
     role        = ["Full Stack Developer", "ML Enthusiast", "Open Source Contributor"]
-    languages   = ["Python", "JavaScript", "TypeScript", "C++"]
-    ask_me_about = ["Web Dev", "ML/AI", "APIs", "System Design"]
+    currently   = "Building production-grade projects & leveling up in AI/ML"
+    learning    = ["LLMs", "System Design", "Cloud Architecture"]
+    ask_me      = ["Python", "Web Dev", "Machine Learning", "APIs"]
     fun_fact    = "I debug with console.log and I'm not ashamed 😤"
 ```
 
@@ -43,27 +46,22 @@ class TarunDange:
 <div align="center">
 
 **Languages**
-
 <br/>
 [![Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css&theme=dark&perline=7)](https://skillicons.dev)
 
 **Frameworks & Libraries**
-
 <br/>
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind&theme=dark&perline=7)](https://skillicons.dev)
 
 **AI / ML**
-
 <br/>
-[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark&perline=4)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
 **Databases & Cloud**
-
 <br/>
 [![Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,redis&theme=dark&perline=6)](https://skillicons.dev)
 
 **Tools & DevOps**
-
 <br/>
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark&perline=7)](https://skillicons.dev)
 
@@ -75,19 +73,25 @@ class TarunDange:
 
 <div align="center">
 
-<!-- ⚠️ github-readme-stats.vercel.app public instance is shut down (Dec 2025).
-     These paths use GitHub Actions–generated static SVG cards stored in your repo.
-     Setup: https://github.com/anuraghazra/github-readme-stats#github-actions -->
-
-<img height="175em" src="https://raw.githubusercontent.com/HeadTarun/HeadTarun/output/stats-card.svg"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=HeadTarun&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0618&title_color=c084fc&icon_color=e879f9&text_color=b89fd4&ring_color=c084fc"/>
 &nbsp;
-<img height="175em" src="https://raw.githubusercontent.com/HeadTarun/HeadTarun/output/top-langs-card.svg"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeadTarun&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0618&title_color=c084fc&text_color=b89fd4"/>
 
 </div>
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HeadTarun&theme=midnight-purple&hide_border=true&background=0d0618&ring=c084fc&fire=e879f9&currStreakLabel=c084fc&sideLabels=7c5ca8&dates=7c5ca8&currStreakNum=c084fc&sideNums=b89fd4)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=HeadTarun&theme=dracula&column=7&no-frame=true&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,7 +122,7 @@ class TarunDange:
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=c084fc,4a2060,0d0618&height=120&section=footer&animation=fadeIn)](https://github.com/HeadTarun)
+
 
 *⭐ If you like what I build, drop a star on my repos — it keeps me going 🚀*
 
