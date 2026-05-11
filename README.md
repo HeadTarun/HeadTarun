@@ -33,6 +33,7 @@
 <br/>
 [![Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,redis&theme=dark&perline=6)](https://skillicons.dev)
 <br/>
+
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
