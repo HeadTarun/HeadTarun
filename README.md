@@ -15,15 +15,15 @@
 
 <div>
 
-**Languages**
+### Languages
 <br/>
 [![Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css&theme=dark&perline=7)](https://skillicons.dev)
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
 <br/>
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind&theme=dark&perline=7)](https://skillicons.dev)
 
-**AI / ML**
+### AI / ML
 <br/>
 [![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
