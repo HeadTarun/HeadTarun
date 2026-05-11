@@ -8,7 +8,36 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HeadTarun&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+</div>
+
+---
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css&theme=dark&perline=7)](https://skillicons.dev)
+
+**Frameworks & Libraries**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind&theme=dark&perline=7)](https://skillicons.dev)
+
+**AI / ML**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
+
+
+----
+
+
+**Databases & Cloud**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,redis&theme=dark&perline=6)](https://skillicons.dev)
+
+**Tools & DevOps**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
