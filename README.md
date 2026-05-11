@@ -19,33 +19,20 @@
 
 [![Skills](https://skillicons.dev/icons?i=python,js,ts,cpp,java,html,css&theme=dark&perline=7)](https://skillicons.dev)
 
-
-<br/>
-
-### Frameworks & Libraries
-
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,fastapi,tailwind&theme=dark&perline=7)](https://skillicons.dev)
 
 
 ### AI / ML
-<br/>
 
 [![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
-
-
-### Tools & DevOps
-
-
 [![Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,redis&theme=dark&perline=6)](https://skillicons.dev)
-
-<br/>
 
 [![Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
----
+
 
 # 👨‍💻 Tarun Dange
 
@@ -77,3 +64,41 @@ class TarunDange:
 
         self.philosophy     = "Build fast. Scale smart. Learn endlessly."
         self.fun_fact       = "Turning bugs into undocumented features since day one 😤"
+```
+
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tarun-dange">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/HeadTarun">
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://twitter.com/HeadTarun">
+  <img src="https://skillicons.dev/icons?i=twitter" height="55" alt="Twitter"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:tarundange@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail"/>
+</a>
+
+</div>
+
+
+
+---
+
+<div align="center">
+
+***⭐ With great power comes great responsibility.***
+
+</div>
